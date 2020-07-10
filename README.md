@@ -1,7 +1,7 @@
-# Cancer_Prediction
+# Cancer Prediction
 
 # Author - Joshua Owusu Ankomah
 
 # Datasource - UCI machine Learning Repo
 
-# Objective : creating a cancer prediction APP for patients based on parameters
+# Objective : creating a cancer prediction APP for patients based on images.
